@@ -92,15 +92,8 @@ content:
         sub_title: Alternate Delivery Channels Executive
         caption:  September 2018 - October 2021
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Provide support for all applications on all Production Systems.
-			Deployments and integration on all Production Systems.
-			Performing User Acceptance Testing & System Integration Testing of all patches and releases.
-			Management of Servers Configuration of new ADC terminals & deployment of new products
-			Database Scripting (Oracle, SQL)
-			Responsible for training internal unit staff to ensure that primary and backup resources are available.
-			Monitor & update of Channel operations. Coordinate with I.T/Vendor/Business for a smooth operation
+            Provide support for all applications on all Production Systems.	Deployments and integration on all Production Systems. Performing User Acceptance Testing & System Integration Testing of all patches and releases. Management of Servers Configuration of new ADC terminals & deployment of new products. Database Scripting (Oracle, SQL). Responsible for training internal unit staff to ensure that primary and backup resources are available. Monitor & update of Channel operations. Coordinate with I.T/Vendor/Business for a smooth operation
 			
 		- layout: left
         title: Extend.se
@@ -109,10 +102,8 @@ content:
         sub_title: Junior Developer
         caption:  February 2018 - September 2021
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            ●	.NET Development, Database Development & Application Deployments.
-			●	XML Mapping and Parsing.
+            .NET Development, Database Development & Application Deployments.XML Mapping and Parsing.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
