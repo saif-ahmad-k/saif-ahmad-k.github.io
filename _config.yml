@@ -85,31 +85,51 @@ content:
         description: | # this will include new lines to allow paragraphs
             "Integrate and install solutions on the customers test and production environments. Develop new application integrations and provide daily operational support. Performed hands-on technical implementation, troubleshooting, and remediation on complex client projects. Troubleshoot and diagnose customer reported issues on the different levels of solutions (i.e. Database, Application, Network, Communication, and Integration Interfaces Levels). Writing and reviewing testing plans and creating test plan automation procedures. Creating automation scripts (bash/python). Working on the product design phase and gathering data. Applying technical skills related to the product being tested (knowledge of programming languages to software QA)."
 
+      - layout: left
+        title: Mobilink Microfinance Bank
+        link: Jazz.com
+        # link_text: boringcompany.com
+        sub_title: Alternate Delivery Channels Executive
+        caption:  September 2018 - October 2021
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+            "Provide support for all applications on all Production Systems.	Deployments and integration on all Production Systems. Performing User Acceptance Testing & System Integration Testing of all patches and releases. Management of Servers Configuration of new ADC terminals & deployment of new products. Database Scripting (Oracle, SQL). Responsible for training internal unit staff to ensure that primary and backup resources are available. Monitor & update of Channel operations. Coordinate with I.T/Vendor/Business for a smooth operation."
+			
+	  - layout: left
+        title: Webtech/Extend.se
+        link: webtech.com
+        # link_text: boringcompany.com
+        sub_title: Junior Developer
+        caption:  March 2018 - September 2018
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+            "NET Development, Database Development & Application Deployments. XML Mapping and Parsing"
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Arid University
+        caption: 2013 - 2017
+        sub_title: BS Computer Science
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
+  - title: Some additional Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my interests in Integration and support some of my other skills include:
+      - QA Testing tools – Selenium, JMeter
+      - Database Operations - MS SQL, DynamoDB, Oracle, MySql, Elastic Search, Postgres
+      - Scripting - PowerShell, CMD, Linux RHEL
+      - Programming - C#, VB, SQL, HTML, Python
+	  - Software Versioning Control - TFS, JIRA, Git, Fork
+      - Business Intelligence - PowerBI, Microsoft Excel, Anaconda Python
+      - Server Management - Synchronization, Archiving, Storage Management
+	  - Documentation - User Manuals, Test Cases, UATs, SITs
+	  - Other Tools - VS, PyCharm, AWS Management Console, ComponentOne, Altova Mapforce
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
