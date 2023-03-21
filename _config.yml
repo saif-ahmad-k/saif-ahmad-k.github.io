@@ -9,7 +9,7 @@ version: 2
 
 # Personal info
 name: Saif Ahmed Kayani
-title: Software Developer
+title: Implementation & Support Engineer
 email: saifahmedkayani@gmail.com
 #email_title: Work-Email (Email title override)
 phone: +923329966275
@@ -100,6 +100,15 @@ content:
             - Rewrote and optimized poorly written code using techniques such as refactoring, debugging and testing.
             - Used my DevOps skills to implement a continuous integration and continuous deployment (CI/CD) pipeline for React Native and .NET projects.
             - NET Development, Database Development & Application Deployments. XML Mapping and Parsing.
+            
+      - layout: right
+        title: Freelancer (Part-time)
+        sub_title: Database Developer | SQL Expert | Data Engineer
+        caption: 2018 - Present
+        link: https://www.upwork.com/freelancers/~01751fd1ea36778c06?viewMode=1
+        description: |
+            - Database Development & Full-Stack Developer
+            
   - title: Addition Skills & tools # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -108,7 +117,7 @@ content:
         title: Additional Skills
         quote: > 
         description: | # this will include new lines to allow paragraphs
-          Alongside my interests in Integration and support some of my other skills include:
+          #Alongside my interests in Integration and support some of my other skills include:
           - QA Testing tools – Selenium, JMeter
           - Database Operations - MS SQL, DynamoDB, Oracle, MySql, Elastic Search, Postgres
           - Scripting - PowerShell, CMD, Linux RHEL
@@ -200,9 +209,17 @@ content:
           A unique variant of the classic Pac-Man with the goal of getting my first steps into JavaScript. The final product is quite impressive, having in mind there were no third party libraries involved, this was my first time I ever used HTML, CSS and JavaScript and most of the art was drawn by me!
           After a while I decided to rebuild the project with a library called "Phaser" and the result was much smoother but I couldn't finish the project because of other duties.
           There are two demos, the old and the new versions, that can be tried in your browse and they are linked in the GitHub Repository!
-          
-        
-          
+   
+content:
+  - title: Education
+    layout: list
+    content:
+      - layout: right
+        title: Arid University, Rawalpindi
+        sub_title: Bachelor's in Computer Sciences
+        caption: 2013 - 2017
+        description: | # this will include new lines to allow paragraphs
+            - Integrate and install solutions on the customers test and production environments.       
           
 # Footer
 footer_show_references: true
