@@ -69,7 +69,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
         description: | # this will include new lines to allow paragraphs
-          "I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one."
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
     layout: list
@@ -79,13 +79,13 @@ content:
         sub_title: Implementation and Support Engineer
         caption: October 2021 - Present
         description: | # this will include new lines to allow paragraphs
-            - Integrate and install solutions on the customers test and production environments.
-			- Develop new application integrations and provide daily operational support.
-			- Performed hands-on technical implementation, troubleshooting, and remediation on complex client projects.
-			- Troubleshoot and diagnose customer reported issues on the different levels of solutions (i.e. Database, Application, Network, Communication, and Integration Interfaces Levels). 
-			- Writing and reviewing testing plans and creating test plan automation procedures. 
-			- Creating automation scripts (bash/python). Working on the product design phase and gathering data. 
-			- Applying technical skills related to the product being tested (knowledge of programming languages to software QA).
+		            - Integrate and install solutions on the customers test and production environments.
+					- Develop new application integrations and provide daily operational support.
+					- Performed hands-on technical implementation, troubleshooting, and remediation on complex client projects.
+					- Troubleshoot and diagnose customer reported issues on the different levels of solutions (i.e. Database, Application, Network, Communication, and Integration Interfaces Levels). 
+					- Writing and reviewing testing plans and creating test plan automation procedures. 
+					- Creating automation scripts (bash/python). Working on the product design phase and gathering data. 
+					- Applying technical skills related to the product being tested (knowledge of programming languages to software QA).
 
       - layout: right
         title: Mobilink Microfinance Bank
@@ -95,8 +95,8 @@ content:
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-            - Provide support for all applications on all Production Systems. 
-			- Deployments and integration on all Production Systems. 
+					- Provide support for all applications on all Production Systems. 
+					- Deployments and integration on all Production Systems. 
 			- Performing User Acceptance Testing & System Integration Testing of all patches and releases. 
 			- Management of Servers Configuration of new ADC terminals & deployment of new products. 
 			- Database Scripting (Oracle, SQL). Responsible for training internal unit staff to ensure that primary and backup resources are available. 
