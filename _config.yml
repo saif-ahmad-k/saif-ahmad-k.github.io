@@ -81,7 +81,6 @@ content:
         caption: September 2018 - October 2021
         link: https://www.jazzcash.com.pk/
         quote: >
-          #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
             - Provide support for all applications on all Production Systems. 
             - Deployments and integration on all Production Systems. 
@@ -108,7 +107,6 @@ content:
         link: https://www.upwork.com/freelancers/~01751fd1ea36778c06?viewMode=1
         description: |
             - I'm a database expert having experience in different database systems and responsible for the design, programming, construction, and implementation of new databases, as well as modifying existing databases for platform updates and changes in user needs. Worked on 50+ B2B, B2C projects which include FinTech Applications, ERP systems, Management Systems, E-Commerce and Inventory Systems.
-            - You can check out my Upwork Profile @ https://www.upwork.com/freelancers/~01751fd1ea36778c06?viewMode=1
             
   - title: Addition Skills & tools # Title for the section
     layout: list # Type of content section (list/text)
@@ -118,8 +116,6 @@ content:
         title: Additional Skills
         quote: > 
         description: | # this will include new lines to allow paragraphs
-          #Alongside my interests in Integration and support some of my other skills include:
-          - QA Testing tools – Selenium, JMeter
           - Database Operations - MS SQL, DynamoDB, Oracle, MySql, Elastic Search, Postgres
           - Scripting - PowerShell, CMD, Linux RHEL
           - Programming - C#, VB, SQL, HTML, Python
@@ -127,6 +123,7 @@ content:
           - Business Intelligence - PowerBI, Microsoft Excel, Anaconda Python
           - Server Management - Synchronization, Archiving, Storage Management
           - Documentation - User Manuals, Test Cases, UATs, SITs
+          - QA Testing tools – Selenium, JMeter
           - Other Tools - VS, PyCharm, AWS Management Console, ComponentOne, Altova Mapforce
             
       - layout: left
@@ -158,59 +155,9 @@ content:
         description: |
           A simple UI has also been developed with React-Native that means it's fully compatible with Android and iOS and ready to be deployed into an app with the same codebase.
        
-      - layout: left
-        border: weak
-        title: URL Shortener
-        link: https://url-shortener-hm.netlify.app
-        link_text: Netlify Demo
-        additional_links:
-          - title:  Github page for project
-            icon: fab fa-github
-            url: https://github.com/Haki-Malai/url-shortener
-        quote: >
-          Slow speeds as it uses heroku and firebase for free.
-        description: |
-          This project had the aim of learning about deploying simple apps for free and to demonstrate my skill set. Of course, the speed is slow because Heroku puts free dynos on idle mode.
-          Node JS for the backend Heroku deployment.
-          React JS for Netlify frontend demo.
-          Firebase for storing the data.
-
-      - layout: left
-        border: weak
-        title: pacman.js
-        link: https://newpacmanjs.netlify.app/
-        link_text: Netlify Demo
-        additional_links:
-          - title:  Github page for project
-            icon: fab fa-github
-            url: https://github.com/Haki-Malai/pacman.js/
-        description: |
-          A unique variant of the classic Pac-Man with the goal of getting my first steps into JavaScript. The final product is quite impressive, having in mind there were no third party libraries involved, this was my first time I ever used HTML, CSS and JavaScript and most of the art was drawn by me!
-          After a while I decided to rebuild the project with a library called "Phaser" and the result was much smoother but I couldn't finish the project because of other duties.
-          There are two demos, the old and the new versions, that can be tried in your browse and they are linked in the GitHub Repository!
-
-      - layout: left
-        border: weak
-        title: JavaScript Games
-        link: https://github.com/Haki-Malai/Games/
-        link_text: GitHub Repository
-        additional_links:
-          - title: Netlify Demo Tetris
-            icon: fas fa-th-large
-            url: https://tetris-hm.netlify.app/
-          - title: Netlify Demo Pac-Man Old
-            icon: fas fa-ghost
-            url: https://oldpacman.netlify.app/
-          - title: Netlify Demo SudokuX
-            icon: fas fa-th
-            url: https://sudokux.netlify.app/
-          - title: Netlify Demo Hyper Sudoku
-            icon: fas fa-th
-        description: |
-          A unique variant of the classic Pac-Man with the goal of getting my first steps into JavaScript. The final product is quite impressive, having in mind there were no third party libraries involved, this was my first time I ever used HTML, CSS and JavaScript and most of the art was drawn by me!
-          After a while I decided to rebuild the project with a library called "Phaser" and the result was much smoother but I couldn't finish the project because of other duties.
-          There are two demos, the old and the new versions, that can be tried in your browse and they are linked in the GitHub Repository!
-
+  - title: Education
+    layout: list # Type of content section (list/text)
+    content:
       - layout: right
         title: Arid University, Rawalpindi
         #sub_title: Bachelor's in Computer Sciences
