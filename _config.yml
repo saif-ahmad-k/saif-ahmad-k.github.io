@@ -209,9 +209,7 @@ content:
           A unique variant of the classic Pac-Man with the goal of getting my first steps into JavaScript. The final product is quite impressive, having in mind there were no third party libraries involved, this was my first time I ever used HTML, CSS and JavaScript and most of the art was drawn by me!
           After a while I decided to rebuild the project with a library called "Phaser" and the result was much smoother but I couldn't finish the project because of other duties.
           There are two demos, the old and the new versions, that can be tried in your browse and they are linked in the GitHub Repository!
-   
-content:
-  - title: Education
+
     layout: list
     content:
       - layout: right
