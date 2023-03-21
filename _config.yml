@@ -81,7 +81,7 @@ content:
         caption: September 2018 - October 2021
         link: https://www.jazzcash.com.pk/
         quote: >
-          Short description of the company (optional)
+          #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
             - Provide support for all applications on all Production Systems. 
             - Deployments and integration on all Production Systems. 
@@ -107,7 +107,8 @@ content:
         caption: 2018 - Present
         link: https://www.upwork.com/freelancers/~01751fd1ea36778c06?viewMode=1
         description: |
-            - Database Development & Full-Stack Developer
+            - I'm a database expert having experience in different database systems and responsible for the design, programming, construction, and implementation of new databases, as well as modifying existing databases for platform updates and changes in user needs. Worked on 50+ B2B, B2C projects which include FinTech Applications, ERP systems, Management Systems, E-Commerce and Inventory Systems.
+            - You can check out my Upwork Profile @ https://www.upwork.com/freelancers/~01751fd1ea36778c06?viewMode=1
             
   - title: Addition Skills & tools # Title for the section
     layout: list # Type of content section (list/text)
@@ -210,8 +211,6 @@ content:
           After a while I decided to rebuild the project with a library called "Phaser" and the result was much smoother but I couldn't finish the project because of other duties.
           There are two demos, the old and the new versions, that can be tried in your browse and they are linked in the GitHub Repository!
 
-    layout: list
-    content:
       - layout: right
         title: Arid University, Rawalpindi
         #sub_title: Bachelor's in Computer Sciences
