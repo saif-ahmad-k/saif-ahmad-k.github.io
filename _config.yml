@@ -39,7 +39,7 @@ linkedin_username: saif-ahmad-k
 additional_links:
   - title: Pdf Download
     icon: far fa-file-pdf
-    url: pdf/ResumeSaif.pdf
+    url: https://github.com/saif-ahmad-k/saif-ahmad-k.github.io/pdf/ResumeSaif.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -65,6 +65,7 @@ content:
         title: Digitata Networks
         sub_title: Implementation and Support Engineer
         caption: October 2021 - Present
+        link: https://digitatanetworks.com
         description: | # this will include new lines to allow paragraphs
             - Integrate and install solutions on the customers test and production environments.
             - Develop new application integrations and provide daily operational support.
@@ -78,7 +79,7 @@ content:
         title: Mobilink Microfinance Bank (JazzCash)
         sub_title: Executive - Alternate Delivery Channels
         caption: September 2018 - October 2021
-        link: Link to company (optional)
+        link: https://www.jazzcash.com.pk/
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
@@ -91,27 +92,33 @@ content:
             - Monitor & update of Channel operations. Coordinate with I.T/Vendor/Business for a smooth operation.
 
       - layout: right
-        title: REMWS
-        sub_title: Full-Stack Software Developer
+        title: Webtech Solution Pvt. Ltd.
+        sub_title: Junior Developer
         caption: Sep 2021 - Nov 2022
+        link: https://webtechsolution.com.pk/
         description: |
             - Rewrote and optimized poorly written code using techniques such as refactoring, debugging and testing.
             - Used my DevOps skills to implement a continuous integration and continuous deployment (CI/CD) pipeline for React Native and .NET projects.
-            - Provided feedback and suggestions on code to improve productivity and efficiency on less skilled cooworkers.
-            - Assisted my team with debugging and troubleshooting issues to ensure smooth implementation of best practices.
-  - title: Projects # Title for the section
+            - NET Development, Database Development & Application Deployments. XML Mapping and Parsing.
+  - title: Addition Skills & tools # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         border: weak
-        title: Pet Shop
-        link: https://petshoppotamos.gr
-        link_text: Heroku Deploy
-        quote: >
-          This is a website for a very friendly pet shop based in Corfu, Potamos. 
+        title: Additional Skills
+        quote: > 
         description: | # this will include new lines to allow paragraphs
-          Except of what is visible to the customer, there also exists an admin page that gives access to the owner to update the website with new products, change the colors, add art, promote new products/sales and much more! The website is build with Flask and uses Jinja2 for the frontend. My goal for the future is to make it faster by making the website static instead of dynamic, with the price of having to wait a little more to be able to see any changes from the client view.
-        
+          Alongside my interests in Integration and support some of my other skills include:
+          - QA Testing tools – Selenium, JMeter
+          - Database Operations - MS SQL, DynamoDB, Oracle, MySql, Elastic Search, Postgres
+          - Scripting - PowerShell, CMD, Linux RHEL
+          - Programming - C#, VB, SQL, HTML, Python
+          - Software Versioning Control - TFS, JIRA, Git, Fork
+          - Business Intelligence - PowerBI, Microsoft Excel, Anaconda Python
+          - Server Management - Synchronization, Archiving, Storage Management
+          - Documentation - User Manuals, Test Cases, UATs, SITs
+          - Other Tools - VS, PyCharm, AWS Management Console, ComponentOne, Altova Mapforce
+            
       - layout: left
         border: weak
         title: Arctic Fox
