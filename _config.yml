@@ -73,36 +73,47 @@ content:
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
+	
+content:
+  - title: Experience
+    layout: list
     content:
-      - layout: left
+      - layout: right
         title: Digitata Networks
-        link: digitatanetworks.com
-        # link_text: boringcompany.com
         sub_title: Implementation and Support Engineer
         caption: October 2021 - Present
-        quote: > Just a test
-        description: | 	# this will include new lines to allow paragraphs
-           "Integrate and install solutions on the customers test and production environments. Develop new application integrations and provide daily operational support. Performed hands-on technical implementation, troubleshooting, and remediation on complex client projects. Troubleshoot and diagnose customer reported issues on the different levels of solutions (i.e. Database, Application, Network, Communication, and Integration Interfaces Levels). Writing and reviewing testing plans and creating test plan automation procedures. Creating automation scripts (bash/python). Working on the product design phase and gathering data. Applying technical skills related to the product being tested (knowledge of programming languages to software QA)."
+        description: | # this will include new lines to allow paragraphs
+            - Integrate and install solutions on the customers test and production environments.
+			- Develop new application integrations and provide daily operational support.
+			- Performed hands-on technical implementation, troubleshooting, and remediation on complex client projects.
+			- Troubleshoot and diagnose customer reported issues on the different levels of solutions (i.e. Database, Application, Network, Communication, and Integration Interfaces Levels). 
+			- Writing and reviewing testing plans and creating test plan automation procedures. 
+			- Creating automation scripts (bash/python). Working on the product design phase and gathering data. 
+			- Applying technical skills related to the product being tested (knowledge of programming languages to software QA).
 
-      - layout: left
+      - layout: right
         title: Mobilink Microfinance Bank
-        link: mobilinkmicrofinancebank.com
-        # link_text: boringcompany.com
         sub_title: Alternate Delivery Channels Executive
-        caption:  September 2018 - October 2021
-        quote: > Just a test
-        description: | 	# this will include new lines to allow paragraphs
-			"Provide support for all applications on all Production Systems. Deployments and integration on all Production Systems. Performing User Acceptance Testing & System Integration Testing of all patches and releases. Management of Servers Configuration of new ADC terminals & deployment of new products. Database Scripting (Oracle, SQL). Responsible for training internal unit staff to ensure that primary and backup resources are available. Monitor & update of Channel operations. Coordinate with I.T/Vendor/Business for a smooth operation."
+        caption: September 2018 - October 2021
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+            - Provide support for all applications on all Production Systems. 
+			- Deployments and integration on all Production Systems. 
+			- Performing User Acceptance Testing & System Integration Testing of all patches and releases. 
+			- Management of Servers Configuration of new ADC terminals & deployment of new products. 
+			- Database Scripting (Oracle, SQL). Responsible for training internal unit staff to ensure that primary and backup resources are available. 
+			- Monitor & update of Channel operations. Coordinate with I.T/Vendor/Business for a smooth operation.
 
-	  - layout: left
-        title: Extend.se
-        link: webtech.com
-        # link_text: boringcompany.com
-        sub_title: Junior Developer
-        caption:  March 2018 - September 2018
-		quote: > Just a test
-        description: | 	# this will include new lines to allow paragraphs
-		"NET Development, Database Development & Application Deployments. XML Mapping and Parsing"
+      - layout: right
+        title: Webtech Pvt Ltd.
+        sub_title: Junior Software Developer
+        caption: March 2018 - September 2018
+        description: |
+            - Rewrote and optimized poorly written code using techniques such as refactoring, debugging and testing.
+            - Used my DevOps skills to implement a continuous integration and continuous deployment (CI/CD) pipeline for React Native and .NET projects.
+            - NET Development, Database Development & Application Deployments. XML Mapping and Parsing
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
