@@ -214,10 +214,10 @@ content:
     content:
       - layout: right
         title: Arid University, Rawalpindi
-        sub_title: Bachelor's in Computer Sciences
+        #sub_title: Bachelor's in Computer Sciences
         caption: 2013 - 2017
         description: | # this will include new lines to allow paragraphs
-            - Integrate and install solutions on the customers test and production environments.       
+            - Bachelor's in Computer Sciences      
           
 # Footer
 footer_show_references: true
