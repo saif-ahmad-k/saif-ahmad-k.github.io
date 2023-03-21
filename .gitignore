@@ -2,5 +2,9 @@
 .bundle
 .sass-cache
 _site
-Gemfile.lock
 *.code-workspace
+vendor
+.gitignore
+.history
+node_modules
+venv
