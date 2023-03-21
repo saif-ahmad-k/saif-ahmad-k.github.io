@@ -1,7 +1,8 @@
 # Site
 repository: Haki-Malai/cv
 url: hakimalai.com
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional
+favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
@@ -38,7 +39,7 @@ linkedin_username: saif-ahmad-k
 additional_links:
   - title: Pdf Download
     icon: far fa-file-pdf
-    url: https://github.com/saif-ahmad-k/ResumeSaif.pdf
+    url: pdf/ResumeSaif.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -51,10 +52,9 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.jpg
+about_profile_image: images/Profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello! Through out my career, I've worked as an Integration Engineer, developer, SQA and Support Engineer. This is because I love learning new technologies and providing solutions using modern technology. I have been part of Digital Financial Systems, Transmission & ERP teams and worked on different stages in SDLC. I enjoy working on databases and performing analysis. I also have exposure in interfacing systems to another and writing automated scripts be it in bash/python/c#.
-  I am most skilled in: Integration, SQL and Automation scripting
+  Hello! Through out my career, I've worked as an Integration Engineer, developer, SQA and Support Engineer. This is because I love learning new technologies and providing solutions using modern technology. I have been part of Digital Financial Systems, Transmission & ERP teams and worked on different stages in SDLC. I enjoy working on databases and performing analysis. I also have exposure in interfacing systems to another and writing automated scripts be it in bash/python/c#. I am most skilled in: Integration, SQL and Automation scripting
   
   
 content:
@@ -62,25 +62,33 @@ content:
     layout: list
     content:
       - layout: right
-        title: Freelancing-Volunteering
-        sub_title: Full-Stack Software Developer
-        caption: Sep 2021 - Nov 2022
+        title: Digitata Networks
+        sub_title: Implementation and Support Engineer
+        caption: October 2021 - Present
         description: | # this will include new lines to allow paragraphs
-            - Used popular freelancing platforms to find clients and served them with great success on tasks such as bug hunting, small automation solutions with Python, developing blocks on code and more.
-            - Helped small local businesses with tasks such as developing their e-shop, giving advice on their needs, recommending their deploying options and even providing IT services.
+            - Integrate and install solutions on the customers test and production environments.
+            - Develop new application integrations and provide daily operational support.
+            - Performed hands-on technical implementation, troubleshooting, and remediation on complex client projects.
+            - Troubleshoot and diagnose customer reported issues on the different levels of solutions (i.e. Database, Application, Network, Communication, and Integration Interfaces Levels). 
+            - Writing and reviewing testing plans and creating test plan automation procedures. 
+            - Creating automation scripts (bash/python). Working on the product design phase and gathering data. 
+            - Applying technical skills related to the product being tested (knowledge of programming languages to software QA).
 
       - layout: right
-        title: CONCISE TECHNOLOGIES LTD
-        sub_title: Full-Stack Software Developer
-        caption: Date Range (eg. November 2016 - present)
+        title: Mobilink Microfinance Bank (JazzCash)
+        sub_title: Executive - Alternate Delivery Channels
+        caption: September 2018 - October 2021
         link: Link to company (optional)
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-            - Created a variety of calculators using JavaScript, HTML5 and CSS with highly maintainable, solid code and beautiful UIs.
-            - Created a complete chat application utilizing React-Native, Flask, NoSQL, and websockets for the front-end and back-end development.
-            - Worked with software development and testing team members to design and develop robust solutions to meet client requirements for functionality, scalability and performance.
+            - Provide support for all applications on all Production Systems. 
+            - Deployments and integration on all Production Systems. 
+            - Performing User Acceptance Testing & System Integration Testing of all patches and releases. 
             - Quickly learned new skills and applied them to daily tasks, improving efficiency and productivity.
+            - Management of Servers Configuration of new ADC terminals & deployment of new products. 
+            - Database Scripting (Oracle, SQL). Responsible for training internal unit staff to ensure that primary and backup resources are available. 
+            - Monitor & update of Channel operations. Coordinate with I.T/Vendor/Business for a smooth operation.
 
       - layout: right
         title: REMWS
